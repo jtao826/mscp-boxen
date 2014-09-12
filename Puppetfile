@@ -59,3 +59,8 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github	"java",       "1.7.0"
+github  "intellij",   "1.5.1"
+github  "sourcetree", "1.0.0"
+mod   "tomcat", :git=>"https://github.com/jsm/puppet-tomcat.git"
+
